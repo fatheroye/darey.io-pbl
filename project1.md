@@ -7,3 +7,4 @@ This set of frameworks and tools are very specifically chosen to work together i
 Step 1: Installing Apache
 
 Command: sudo apt install apache2
+![1](https://user-images.githubusercontent.com/105853738/195987298-c0ce67ae-aaac-4a0c-8136-5a4efbb03e8a.PNG)
