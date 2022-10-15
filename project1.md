@@ -67,3 +67,4 @@ sudo vim /etc/apache2/mods-enabled/dir.conf (Edit dir.conf to place index.php at
 vim /var/www/projectlamp/index.php (Create PHP index page)
 ![php finallly](https://user-images.githubusercontent.com/105853738/195991004-d91d7714-1d03-4793-bac9-8da2e4570d05.PNG)
 
+![php final](https://user-images.githubusercontent.com/105853738/195991167-58c887e0-fcc9-4f7e-878f-4074993e5bf9.PNG)
